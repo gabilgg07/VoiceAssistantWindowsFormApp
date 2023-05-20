@@ -1,0 +1,10 @@
+C:\Users\GabilGG\Documents\CodeWorks\05. Other_Code\OC_210829\Matic\ZikrMatic v1\bin\Debug\ZikrMatic v1.exe.config
+C:\Users\GabilGG\Documents\CodeWorks\05. Other_Code\OC_210829\Matic\ZikrMatic v1\bin\Debug\ZikrMatic v1.exe
+C:\Users\GabilGG\Documents\CodeWorks\05. Other_Code\OC_210829\Matic\ZikrMatic v1\bin\Debug\ZikrMatic v1.pdb
+C:\Users\GabilGG\Documents\CodeWorks\05. Other_Code\OC_210829\Matic\ZikrMatic v1\obj\Debug\ZikrMatic v1.csproj.AssemblyReference.cache
+C:\Users\GabilGG\Documents\CodeWorks\05. Other_Code\OC_210829\Matic\ZikrMatic v1\obj\Debug\ZikrMatic_v1.Form1.resources
+C:\Users\GabilGG\Documents\CodeWorks\05. Other_Code\OC_210829\Matic\ZikrMatic v1\obj\Debug\ZikrMatic_v1.Properties.Resources.resources
+C:\Users\GabilGG\Documents\CodeWorks\05. Other_Code\OC_210829\Matic\ZikrMatic v1\obj\Debug\ZikrMatic v1.csproj.GenerateResource.cache
+C:\Users\GabilGG\Documents\CodeWorks\05. Other_Code\OC_210829\Matic\ZikrMatic v1\obj\Debug\ZikrMatic v1.csproj.CoreCompileInputs.cache
+C:\Users\GabilGG\Documents\CodeWorks\05. Other_Code\OC_210829\Matic\ZikrMatic v1\obj\Debug\ZikrMatic v1.exe
+C:\Users\GabilGG\Documents\CodeWorks\05. Other_Code\OC_210829\Matic\ZikrMatic v1\obj\Debug\ZikrMatic v1.pdb
